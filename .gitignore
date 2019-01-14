@@ -1,0 +1,10 @@
+# IDEs and editors
+.vs/
+.idea/
+/CsharpAlgorithmsAndDataStructures/bin
+/CsharpAlgorithmsAndDataStructures/obj
+
+# User-specific files
+*.suo
+*.user
+*.sln.docstates
